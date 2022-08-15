@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ramiokasha
 - 👀 My hobbies are volleyball, working out, video gaming, and game development.
 - 🌱 I’m currently learning PowerBI, Python, and JavaScript.
-- 💞️ I’m looking to collaborate on any project that involves programming
+- 💞️ I’m looking to collaborate on any project that involves programming.
 - 📫 How to reach me okasharami@gmail.com
 
 <!---
